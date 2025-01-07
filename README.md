@@ -1,6 +1,6 @@
 # Flask SQL Injection Project
 
-This project is a Flask web application that demonstrates SQL injection vulnerabilities and their prevention.
+This project is a Flask web application that demonstrates SQL injection vulnerability.
 
 ## Screenshots
 
