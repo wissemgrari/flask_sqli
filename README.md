@@ -41,7 +41,7 @@ To set up a virtual environment and install the required packages, follow these 
         ```
     - On macOS and Linux:
         ```sh
-        source venv/bin/activate
+        source venv/Scripts/activate
         ```
 
 3. Install the required packages:
